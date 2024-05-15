@@ -1,4 +1,3 @@
-# disease_rcm_sys
 # A disease recommendation system based on the dialogue between doctors and patients
 ## Giới thiệu
 Đây là dự án về hệ thống gợi ý bệnh sử dụng mô hình học tăng cường. Mô hình này được thiết kế để gợi ý các bệnh tật dựa trên thông tin được cung cấp.Sử dụng đồ thị tri thức về y tế kết hợp với mô hình học tăng cường
